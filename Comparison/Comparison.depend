@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1559986566 source:d:\study\placements\c++\comparison\main.cpp
+	<iostream>
+	<string.h>
+

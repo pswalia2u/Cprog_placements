@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1559986590 source:d:\study\placements\c++\string len\main.cpp
+	<iostream>
+	<string.h>
+

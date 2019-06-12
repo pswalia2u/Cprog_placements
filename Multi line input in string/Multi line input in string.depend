@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560242481 source:d:\study\placements\c++\multi line input in string\main.cpp
+	<iostream>
+	<string.h>
+
