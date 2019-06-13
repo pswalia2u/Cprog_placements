@@ -26,7 +26,7 @@ int main()
     //struct Constructor c2(10,20);
     struct Constructor c2=Constructor(10,20);
     c2.display();
-    c2(30,40);
+    c2=Constructor(30,40);
     c2.display();
 
     return 0;
